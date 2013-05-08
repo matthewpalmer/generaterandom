@@ -1,7 +1,7 @@
 A quick way to generate a random alpha-(and/or)-numeric strings of any length.
-I think I probably sourced it from StackOverflow or some forum thread, but I suse it a lot - thought it might be worth sharing.
+I think I probably sourced it from StackOverflow or some forum thread, but I use it a lot - thought it might be worth sharing.
 
-__npm install randomString__
+`__npm install randomString__`
 
 All functions include uppercase and lowercase letters. It's easy to adjust the potential characters yourself.
 

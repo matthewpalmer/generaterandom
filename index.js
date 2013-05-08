@@ -15,7 +15,7 @@ function number(length) {
 }
 function alphanumeric(length) {
   var text = "";
-  var possible = "123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLNMOPQRSWXYZ";
+  var possible = "0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLNMOPQRSWXYZ";
   for (var i=0; i < length; i++)
     text += possible.charAt(Math.floor(Math.random() * possible.length));
   return text;

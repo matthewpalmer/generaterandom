@@ -1,5 +1,5 @@
 {
-  "name": "randomString",
+  "name": "generaterandom",
   "version": "0.0.0",
   "description": "A quick way to generate a random alpha-(and/or)-numeric strings of any length",
   "main": "index.js",

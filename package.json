@@ -1,0 +1,23 @@
+{
+  "name": "randomString",
+  "version": "0.0.0",
+  "description": "A quick way to generate a random alpha-(and/or)-numeric strings of any length",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/matthewpalmer/randomString.git"
+  },
+  "keywords": [
+    "randomstring",
+    "random",
+    "string",
+    "generate",
+    "random",
+    "string"
+  ],
+  "author": "Matthew Palmer",
+  "license": "BSD"
+}

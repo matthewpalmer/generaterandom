@@ -1,7 +1,7 @@
 {
   "name": "generaterandom",
-  "version": "0.0.0",
-  "description": "A quick way to generate random alpha-(and/or)-numeric strings of any length",
+  "version": "0.0.1",
+  "description": "A quick way to generate a random alphanumeric, numeric or alphabetical strings of any length.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
